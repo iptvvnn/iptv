@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Phim lẻ", Bụi Đời Gangnam - Gangnam 1970
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/41e759c60bb8f417d91962230f797c3c.smil/chunklist_b1596000.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Cẩm Y Vệ - 14 Blades
+https://vod03-cdn.fptplay.net/encoded/20200820/14_blades_2010_china_1080p_sub/chunklist_b1596000.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Câu Chuyện Cảnh Sát 1 - Police Story 1
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170404/b0a7e5fcc786d958e2b6fc809f2f8b31.smil/chunklist_b1596000.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Câu Chuyện Cảnh Sát 2 - Police Story 2
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170404/ef861be23927c972e83e05ffefdd9ebc.smil/chunklist_b1596000.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Câu Chuyện Cảnh Sát 3 - Police Story 3
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170404/4d824e93160100db6c67e33ee6574bbd.smil/chunklist_b1596000.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Châu Tinh Trì : Tân Tinh Võ Môn 2 - Fist Of Fury 2
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fistofury/Fist_Of_Fury_2_1991.mp4/chunklist_b1596000.m3u8
 #EXTINF:-1 group-title="Phim lẻ", Biệt Kích Ngầm - Act of Valor
 https://vod01-cdn.fptplay.net/encoded/20200628/act_of_valor_1080p_logofptplay_v3/chunklist_b1596000.m3u8
 #EXTINF:-1 group-title="Phim lẻ", Biệt Hữu Động Cơ - Ulterior Motive
