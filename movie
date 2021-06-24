@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Phim lẻ", Biệt Kích Ngầm - Act of Valor
+https://vod01-cdn.fptplay.net/encoded/20200628/act_of_valor_1080p_logofptplay_v3/chunklist_b1596000.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Biệt Hữu Động Cơ - Ulterior Motive
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/ulteriormotive-2015-china-tm/UlteriorMotive_2015_China_TM_vip.smil/chunklist_b1596000.m3u8
 #EXTINF:-1 group-title="Phim lẻ", Hiện Trường Tội Phạm - A Witness Out of the Blue TM
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210518/a_witness_out_of_the_blue_2019_china_tm/fea200c8e026bae3d9cc2251df4a19d1.smil/chunklist_b1596000.m3u8
 #EXTINF:-1 group-title="Phim lẻ",Cuộc Gọi - The Call
