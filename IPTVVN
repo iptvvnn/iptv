@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/GMmqm6N.png", VTV1 | 720P | Tin tức
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b1596000.m3u8
+https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/da1K9o7.png", VTV2 | 720P | Khoa giáo
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
