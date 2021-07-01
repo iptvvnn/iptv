@@ -1,30 +1,30 @@
 #EXTM3U url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/GMmqm6N.png", VTV1 | 720P | Tin tức
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/GMmqm6N.png", VTV1 HD | Tin tức
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/da1K9o7.png", VTV2 | 720P | Khoa giáo
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/da1K9o7.png", VTV2 HD | Khoa giáo
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/ELPWNBq.png", VTV3 | 720P | Giải trí
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/ELPWNBq.png", VTV3 HD | Giải trí
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DCbOEf.png", VTV4 | 720P | Hải ngoại
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DCbOEf.png", VTV4 HD | Hải ngoại
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/isTMBFz.png", VTV5 | 720P | Dân tộc
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/isTMBFz.png", VTV5 HD | Dân tộc
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/t2TZfVs.png", VTV6 | 720P | Giới trẻ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/t2TZfVs.png", VTV6 HD | Giới trẻ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/hXRBgP4.png", VTV7 | 720P | Nhi đồng
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/hXRBgP4.png", VTV7 HD | Nhi đồng
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lTaJljm.png", VTV8 | 720P | Cần thơ
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lTaJljm.png", VTV8 HD | Cần thơ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/J8xZd8v.png", VTV9 | 720P | Hồ Chí Minh
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/J8xZd8v.png", VTV9 HD | Hồ Chí Minh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/GMmqm6N.png", VTV1 | 1080P
@@ -55,19 +55,19 @@ https://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
-#EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.imgur.com/ERFSIOF.png",VTC1 HD | 720P
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/ERFSIOF.png",VTC1 HD HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/PA12mGb.png",VTC2 HD | 720P
+#EXTINF:-1 tvg-id="vtc2hd" group-title="VTC" tvg-logo="https://i.imgur.com/PA12mGb.png",VTC2 HD HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtc3"  group-title="VTC" tvg-logo="https://i.imgur.com/kwujTlD.png",VTC3 HD | 720P
+#EXTINF:-1 tvg-id="vtc3hd"  group-title="VTC" tvg-logo="https://i.imgur.com/kwujTlD.png",VTC3 HD HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.ibb.co/YNsvzL2/vtc4logobyvovanloc.png", VTC4 Yeah1 Family | 720P
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.ibb.co/YNsvzL2/vtc4logobyvovanloc.png", VTC4 Yeah1 Family HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtc5hd"  group-title="VTC" tvg-logo="https://i.ibb.co/nnZ6fTk/vtc5logobyvovanloc.png", VTC5 | 720P
+#EXTINF:-1 tvg-id="vtc5hd"  group-title="VTC" tvg-logo="https://i.ibb.co/nnZ6fTk/vtc5logobyvovanloc.png", VTC5 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.ibb.co/d4RzbFn/vtc6logobyvovanloc.png", VTC6 | 576P
@@ -82,7 +82,7 @@ https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.ibb.co/mqLMwjd/vtc9logobyvovanloc.png", VTC9 | 576P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.ibb.co/Y3cz3Mk/vtc10logobyvovanloc.png", VTC10 | 576P
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://i.ibb.co/Y3cz3Mk/vtc10logobyvovanloc.png", VTC10 | 576P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.ibb.co/6nx456c/vtc11logobyvovanloc.png", VTC11 | 576P
@@ -91,22 +91,22 @@ https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="vtc12hd" group-title="VTC" tvg-logo="https://i.ibb.co/59Fmk2G/vtc12logobyvovanloc.png", VTC12 - VTCK | 576P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.ibb.co/4KDDK1m/vtc8logobyvovanloc.png", VTC13 | 720P
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://i.ibb.co/4KDDK1m/vtc8logobyvovanloc.png", VTC13 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://i.ibb.co/xqmkBGz/vtc14logobyvovanloc.png", VTC14 | 720P
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.ibb.co/xqmkBGz/vtc14logobyvovanloc.png", VTC14 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.ibb.co/ZcZV2Dx/vtc16logobyvovanloc.png", VTC16 | 720P
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.ibb.co/ZcZV2Dx/vtc16logobyvovanloc.png", VTC16 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.imgur.com/ERFSIOF.png",VTC1 HD | 1080P
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/ERFSIOF.png",VTC1 HD | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://vtc130121.cdn.vnns.io:443/VTC1_abr/vtc130121/VTC1_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/PA12mGb.png",VTC2 HD
+#EXTINF:-1 tvg-id="vtc2hd" group-title="VTC" tvg-logo="https://i.imgur.com/PA12mGb.png",VTC2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://vtc130121.cdn.vnns.io:443/VTC2/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://i.imgur.com/kwujTlD.png",VTC3 HD | 1080P
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/kwujTlD.png",VTC3 HD | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://vtc130121.cdn.vnns.io:443/VTC3_abr/vtc130121/VTC3_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.ibb.co/YNsvzL2/vtc4logobyvovanloc.png", VTC4 - Yeah1 Family | 1080P
@@ -127,7 +127,7 @@ https://vtc130121.cdn.vnns.io/VTC8/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.ibb.co/mqLMwjd/vtc9logobyvovanloc.png", VTC9 | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://vtc130121.cdn.vnns.io:443/VTC9_abr/vtc130121/VTC9_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.ibb.co/Y3cz3Mk/vtc10logobyvovanloc.png", VTC10 | 1080P
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://i.ibb.co/Y3cz3Mk/vtc10logobyvovanloc.png", VTC10 | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://vtc130121.cdn.vnns.io:443/VTC10_abr/vtc130121/VTC10_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.ibb.co/6nx456c/vtc11logobyvovanloc.png", VTC11 | 1080P
@@ -136,10 +136,10 @@ https://vtc130121.cdn.vnns.io:443/VTC11/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc12hd" group-title="VTC" tvg-logo="https://i.ibb.co/59Fmk2G/vtc12logobyvovanloc.png", VTC12 - VTCK | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://vtc130121.cdn.vnns.io:443/VTC12/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.ibb.co/4KDDK1m/vtc8logobyvovanloc.png", VTC13 | 1080P
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://i.ibb.co/4KDDK1m/vtc8logobyvovanloc.png", VTC13 | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://vtc130121.cdn.vnns.io:443/VTC13/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://i.ibb.co/xqmkBGz/vtc14logobyvovanloc.png", VTC14 | 1080P
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.ibb.co/xqmkBGz/vtc14logobyvovanloc.png", VTC14 | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://vtc130121.cdn.vnns.io:443/VTC14_abr/vtc130121/VTC14_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.ibb.co/ZcZV2Dx/vtc16logobyvovanloc.png", VTC16 | 1080P
@@ -470,7 +470,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN | 720P
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ"  tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG | 1080P
@@ -527,7 +527,7 @@ https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="channel_v" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/QQYVVH7/Channel-Vlogobyvovanloc.png", Channel V | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="channel_v" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/QQYVVH7/Channel-Vlogobyvovanloc.png", Channel V | 720P
+#EXTINF:-1 tvg-id="channel_v" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/QQYVVH7/Channel-Vlogobyvovanloc.png", Channel V HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png", Cartoon Network HD
@@ -542,13 +542,13 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="foxhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 720P
+#EXTINF:-1 tvg-id="foxhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="fox_family_movies" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png", FOX FAMILY MOVIES | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="fox_family_movies" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png", FOX FAMILY MOVIES | 720P
+#EXTINF:-1 tvg-id="fox_family_movies" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png", FOX FAMILY MOVIES HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/tDmtwBN/Fox-Action-Movieslogobyvovanloc.png", FOX ACTION MOVIES
@@ -557,13 +557,13 @@ http://tvku.live:8888/provision/pp/99
 #EXTINF:-1 tvg-id="fox_movies" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png", FOX Movies | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="fox_movies" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png", FOX Movies | 720P
+#EXTINF:-1 tvg-id="fox_movies" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png", FOX Movies HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="foxlifehd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png", FOX LIFE | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png", FOX LIFE | 720P
+#EXTINF:-1 tvg-id="foxlifehd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png", FOX LIFE HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="france_24" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png", France 24
@@ -593,7 +593,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="discovery" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png" group-title="QUỐC TẾ", Discovery Channel | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="discovery" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png", Discovery Channel | 720P
+#EXTINF:-1 tvg-id="discovery" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png", Discovery Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="discovery_asia" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/3p1JnX4/Discovery-Asialogobyvovanloc.png", Discovery Asia
