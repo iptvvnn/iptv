@@ -57,6 +57,22 @@ https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200212/time-trap
 #EXTINF:-1 group-title="Phim lẻ",Biệt Đội Cứu Hỏa - As the Light Goes Out
 https://vod07-cdn.fptplay.net/encoded/20200808/as_the_light_goes_out_2014_china_1080p_sub/432p/index.m3u8
 
+#EXTINF:-1 group-title="Prime Minister and I TM", Chuyện Tình Thủ Tướng tập 1
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200928/primeministerandi_2013_kr_01_720p_a/b1a7a42977edabc3396a5699d86ef18a.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjI5ZWIyN2ZiYTRmNzM0YzBhMWRiMjRlNWJiNDAzODQ2IiwgInZpZGVvX2lkIjogIjU4N2YzNWY4MTdkYzEzNWI3ODEzZjMyNSIsICJzZXJ2ZXJfdGltZSI6IDE2MjUzOTExMDMsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 group-title="Prime Minister and I TM", Chuyện Tình Thủ Tướng tập 1b
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200929/primeministerandi-2013-kr-01-720p-b/5c92a8b850f7f707d5c56ddeb8c6fe31.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjI1OGZmN2JhOTUzN2NjMTAwNjg4ZTlkMWVlNzc2MTUwIiwgInZpZGVvX2lkIjogIjU4N2YzNWY4MTdkYzEzNWI3ODEzZjMyNSIsICJzZXJ2ZXJfdGltZSI6IDE2MjUzOTExMTAsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 group-title="Prime Minister and I TM", Chuyện Tình Thủ Tướng tập 2
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200929/primeministerandi_2013_kr_02_720p_a/0c630ea53cb2f4a176fa9ec1cd55b066.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjY2Y2RkNWI2NWRkNjE1M2IxYjUwZTU4ODM5MjY5Nzc5IiwgInZpZGVvX2lkIjogIjU4N2YzNWY4MTdkYzEzNWI3ODEzZjMyNSIsICJzZXJ2ZXJfdGltZSI6IDE2MjUzOTExMTUsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 group-title="Prime Minister and I TM", Chuyện Tình Thủ Tướng tập 2b
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200929/primeministerandi_2013_kr_02_720p_b/b915eb093a7dad20a7a39501b17cd121.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjFlY2JhN2M0ZDI2YTBhMTQxZTFlY2RiZTE1MDQyNzExIiwgInZpZGVvX2lkIjogIjU4N2YzNWY4MTdkYzEzNWI3ODEzZjMyNSIsICJzZXJ2ZXJfdGltZSI6IDE2MjUzOTExMjAsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 group-title="Prime Minister and I TM", Chuyện Tình Thủ Tướng tập 3
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200929/primeministerandi_2013_kr_03_720p_a/bdba112f919a7aa270b891033b895354.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjM4YWI1YTIwZTJlNTZkMWVmYWQ0NmM5OTlkY2UxZmU4IiwgInZpZGVvX2lkIjogIjU4N2YzNWY4MTdkYzEzNWI3ODEzZjMyNSIsICJzZXJ2ZXJfdGltZSI6IDE2MjUzOTExMzEsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 group-title="Prime Minister and I TM", Chuyện Tình Thủ Tướng tập 3b
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200929/primeministerandi-2013-kr-03-720p-b/3a59e9e5740a1ffac719a766c1af1a3e.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjBmNTQwNzQyNWQ0MTJhZjMwMzJhNGUzMDhjNGE3YTZhIiwgInZpZGVvX2lkIjogIjU4N2YzNWY4MTdkYzEzNWI3ODEzZjMyNSIsICJzZXJ2ZXJfdGltZSI6IDE2MjUzOTExMzcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+
+
+
+
 #EXTINF:-1 group-title="Hold Me Tight TM", Ôm Em Thật Chặt tập 1
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20180323/holdmetight-01-tm-logo/d0ddb268617f3f4dda0880ac03883fb8.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjgyNDcyNzc5YTIwNGVhMTI1ZjczY2U1MzNlNTBjZGZlIiwgInZpZGVvX2lkIjogIjVhYjRiNGJhNTU4MzIwMDg4ZWQ0NTE2NSIsICJzZXJ2ZXJfdGltZSI6IDE2MjUzMjY3NDgsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
 #EXTINF:-1 group-title="Hold Me Tight TM", Ôm Em Thật Chặt tập 2
