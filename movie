@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Phim lẻ", Tân Thiếu Lâm Tự - Shaolin
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20161208/ae5bae09055bc11d468095469fc01ee7.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Phim lẻ", Bụi Đời Gangnam - Gangnam 1970
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/41e759c60bb8f417d91962230f797c3c.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Phim lẻ", Cẩm Y Vệ - 14 Blades
