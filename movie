@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Phim lẻ", Nghệ Thuật Quyến Rũ - The Art of Seduction
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210716/theartofseduction_2005_korea_sub_v2/c2bcb94eb2bac81df505f75340e557e8.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Võ Hiệp - Swordsmen
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210715/swordsmen_2011_hongkong_1080p_tm/a07928faa088fd0e7977cae7efd34bd1.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Phim lẻ", Tân Thiếu Lâm Tự - Shaolin
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20161208/ae5bae09055bc11d468095469fc01ee7.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Phim lẻ", Bụi Đời Gangnam - Gangnam 1970
