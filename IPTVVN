@@ -5,16 +5,16 @@
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/da1K9o7.png", VTV2 HD | Khoa giáo
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/ELPWNBq.png", VTV3 HD | Giải trí
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/0DCbOEf.png", VTV4 HD | Hải ngoại
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://livecdn.fptplay.net/hda1/vtv4hd_vhls.smil/chunklist_b5000000.m3u8
+http://livecdn.fptplay.net/hda1/vtv4hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/isTMBFz.png", VTV5 HD | Dân tộc
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://livecdn.fptplay.net/hda/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda/vtv5hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/t2TZfVs.png", VTV6 HD | Giới trẻ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://livecdn.fptplay.net/hda/vtv6hd_vhls.smil/chunklist_b1200000.m3u8
