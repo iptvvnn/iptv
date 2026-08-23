@@ -96,16 +96,49 @@ https://vmttv.dpdns.org/tv360/?id=360-anime
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
 
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="", HTV1
+https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="", HTV2
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="", HTV3
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="", HTV4
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="", HTV5
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv7" group-title="HTV" tvg-logo="", HTV7
+https://live.fptplay53.net/live/media/htv7/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="htv9" group-title="HTV" tvg-logo="", HTV9
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv-thethao" group-title="HTV" tvg-logo="", HTV Thể Thao
+https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="htv-canhac" group-title="HTV" tvg-logo="", HTVC Ca Nhạc
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv-dulich" group-title="HTV" tvg-logo="", HTVC Du Lịch và Cuộc Sống
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv-giadinh" group-title="HTV" tvg-logo="", HTVC Gia Đình
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv-phim" group-title="HTV" tvg-logo="", HTVC Phim
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv-phunu" group-title="HTV" tvg-logo="", HTVC Phụ Nữ
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv-thuanviet" group-title="HTV" tvg-logo="", HTVC Thuần Việt
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv-plus" group-title="HTV" tvg-logo="", HTVC Plus
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-id="on-viegiaitri" group-title="vtvcab" tvg-logo="", ON Vie Giải Trí 
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="", Da Vinci
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN HD
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", KIX HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ"  tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
