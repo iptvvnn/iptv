@@ -100,21 +100,23 @@ https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
 
 
 
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN | 1080P
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="", Da Vinci
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b1200000.m3u8
+
 #EXTINF:-1 group-title="QUỐC TẾ"  tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG | 1080P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/2y38WHL/animaxlogobyvovanloc.png", ANIMAX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png", Animal Planet
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b1200000.m3u8
+
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/4fZs4BK/Asian-Food-Networklogobyvovanloc.png", Asian Food Network
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
